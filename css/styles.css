@@ -1,0 +1,54 @@
+body{
+    background: #ffffff;
+    color: black;   
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+#header-nav{
+    background-color: #757083;
+    border: 0;
+    border-radius: 0;
+}
+.navbar-brand{
+    padding-bottom: 90px;
+}
+.navbar-brand h1{
+    color: #090C08;
+    font-weight: bold;
+}
+#nav-list{
+    margin-top: 10px;
+    background: white;
+    border: 3px solid black
+}
+#nav-list li{
+    text-decoration: none;
+    list-style-type: none;
+    margin: 30px;
+    font-size: 20px;
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+#nav-list a{
+    color: #090C08; 
+    text-align: center;
+    text-decoration: none;
+    background: 1.8em;     
+}
+.navbar-toggle{
+    vertical-align: middle;
+    position: relative;
+    margin-top: 40px;
+}
+#main-title{
+    margin-bottom: 30px;
+}
+#food-boxes div{
+    border: 2px solid black;
+    background: #757083;
+    margin-bottom: 20px;
+}
+@media (min-width: 992px) and (max-width: 1199px){ 
+    
+    
+}
